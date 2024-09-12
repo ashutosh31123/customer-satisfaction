@@ -80,14 +80,6 @@ This should give you the following stack to work with.
 
 ![mlflow_stack](_assets/mlflow_stack.png)
 
-## 📙 Resources & References
-
-We had written a blog that explains this project
-in-depth: [Predicting how a customer will feel about a product before they even ordered it](https://blog.zenml.io/customer_satisfaction/).
-
-There is also a great course over on [freeCodeCamp.org](https://www.youtube.com/watch?v=-dJPoLm_gtE) by
-[Ayush Singh](https://www.linkedin.com/in/ayush-singh488/) based on this project.
-
 ## :thumbsup: The Solution
 
 In order to build a real-world workflow for predicting the customer satisfaction
